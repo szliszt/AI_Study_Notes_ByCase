@@ -1,59 +1,36 @@
-# 人工智能入门30例
+# 人工智能学习笔记
 > 李春雷 2022-10-08
 
 
 
-## 一、 人工智能概述
- 1、 人工智能可以做什么？
+> <html>
+>  AI理论很艰深，但是代码其实很简单！<br>
+>  算法和模型慢慢看，数学知识看到哪里就学到哪里，直接上代码，先跑起来！
+> </html>
 
- 2、 人工智能时髦吗
 
- 3、 人工智能好学吗？
 
- 4、 人工智能知识图谱
+### 一、 人工智能概述
+https://docs.qq.com/doc/DWkVRc2VTY3ZGZUtw
+### 二、 环境准备
+https://docs.qq.com/doc/DWlV5cUZoeXh1bFNr
+### 三、 实际案例
+#### （一） 、机器学习
+https://docs.qq.com/doc/DWm5PYm1Jd0VZZXRp
+#### （二） 、深度学习
+https://docs.qq.com/doc/DWkF6ek50bXBLemZP
+### 四、 相关算法
+https://docs.qq.com/doc/DWkR4aVFHT3paS2t1
+### 五、 名词解释
+https://docs.qq.com/doc/DWmJqbUJyb3dOVklk
+### 六、 面试题
+https://docs.qq.com/doc/DWmZKYXByVFNXaGxs
+### 七、 相关数学知识
+https://docs.qq.com/doc/DWmtMdmRMeGlQdXpr
+### 八、 python基础
+https://docs.qq.com/doc/DWk9VRU1OWlhtV1JT
+### 九、 赛事
+https://docs.qq.com/doc/DWkxack1VS3ZvemVT
 
-## 二、 环境准备
- 1、 注册一个aistudio账号
-  https://aistudio.baidu.com/aistudio/index
+十、 
 
- 2、 注册一个Google账号
-  https://colab.research.google.com/
-
- 3、 注册一个kaggle账号
- https://www.kaggle.com/
-
- 4、 本地搭建环境
- anaconda+pycharm
-
-## 三、 人工智能例子
- 1、 计算打的费用
- 
- 2、 预测房价
- 
- 3、 我能贷款成功吗？
- 
- 4、 给猫狗分类
- 
- 5、 手写数字识别
- 
- 6、 数字验证码识别
- 
- 7、 京东滑动框验证码识别
- 
- 8、 根据名称自动匹配sku
- 
- 9、 从地址栏自动提取省市县
- 
- 10、 产品属性自动分类
- 
- 11、 发票自动识别
- 
- 12、 给小孩起名
- 
- 13、 自己80岁以后长什么样？
- 
-## 四、 相关算法
-
-## 五、 数学知识
-
-## 六、 人工智能词典
