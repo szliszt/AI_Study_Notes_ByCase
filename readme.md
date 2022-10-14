@@ -13,7 +13,7 @@
 ### [ 一、 人工智能概述](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/1.md)
 
 
-### 二、 环境准备
+### [二、 环境准备](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/2.md)
 
 ### 三、 实际案例
 #### （一） 、机器学习
