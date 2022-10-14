@@ -30,7 +30,7 @@
 
 ### 八、 python基础
 
-### 九、 赛事
+### [九、 赛事](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/9.md)
 
 
 十、 
