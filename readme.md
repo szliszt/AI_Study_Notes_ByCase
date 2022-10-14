@@ -1,7 +1,7 @@
 # 人工智能案例学习笔记--通过实例快速上手AI
 > 李春雷 2022-10-08
 
-** paddle版本，可以直接运行 **
+**paddle版本，可以直接运行**
 
 https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 
