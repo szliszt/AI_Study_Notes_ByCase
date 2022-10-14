@@ -16,11 +16,11 @@
 ### [二、 环境准备](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/2.md)
 
 ### 三、 实际案例
-#### [（一）、机器学习](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.1.md)
+#### [(一)、机器学习](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.1.md)
 
-#### （二）、深度学习
+#### （二)、深度学习
 
-### 四、 相关算法
+### [四、 相关算法](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/4.md)
 
 ### 五、 名词解释
 
