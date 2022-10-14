@@ -24,7 +24,7 @@
 
 ### 五、 名词解释
 
-### 六、 面试题
+### [六、 面试题](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/6.md)
 
 ### 七、 相关数学知识
 
