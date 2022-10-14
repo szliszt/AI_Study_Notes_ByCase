@@ -10,8 +10,8 @@
 
 
 
-### 一、 人工智能概述
-[点击跳转](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/1.md)
+### [ 一、 人工智能概述](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/1.md)
+
 
 ### 二、 环境准备
 
