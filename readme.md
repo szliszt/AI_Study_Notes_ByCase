@@ -21,6 +21,19 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 #### [(一)、机器学习](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.1.md)
 
 #### (二)、深度学习
+##### 计算机视觉
+- [1、 MINIST手写数字识别（深度学习的helloword）](https://note.youdao.com/)
+- [2、 识别数字验证码](https://note.youdao.com/)
+- 3、 识别字母与数字混合的验证码
+- 4、 目标检测：检测京东滑动框
+- 5、 猫狗识别
+- 6、 表格识别
+
+##### NLP
+- 1、 对评论进行情感分析 
+- 2、 根据名称自动匹配sku 
+- 3、 从地址栏自动提取省市县 
+- 4、 产品属性自动分类 
 
 ### [四、 相关算法](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/4.md)
 
