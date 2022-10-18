@@ -24,7 +24,7 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 ##### 计算机视觉
 - [1、 MINIST手写数字识别（深度学习的helloword）](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.1.md)
 - [2、 识别数字验证码](https://note.youdao.com/)
-- 3、 识别字母与数字混合的验证码
+- [3、 识别字母与数字混合的验证码](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.3.md)
 - 4、 目标检测：检测京东滑动框
 - 5、 猫狗识别
 - 6、 表格识别
