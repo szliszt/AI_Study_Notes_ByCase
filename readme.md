@@ -43,10 +43,8 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 
 ### 七、 相关数学知识
 
-### 八、 python基础
-
-### [九、 赛事](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/9.md)
+### [八、 赛事](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/9.md)
 
 
-十、 
-
+### [九、 我帮助阿里巴巴的算法专家纪志辉整理的演讲稿](https://mp.weixin.qq.com/s/b0mHh-cTeY6LtZ88BlAleQ)
+- [https://mp.weixin.qq.com/s/b0mHh-cTeY6LtZ88BlAleQ](https://mp.weixin.qq.com/s/b0mHh-cTeY6LtZ88BlAleQ)
