@@ -26,7 +26,7 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 - 2、 识别数字验证码
 - [3、 识别字母与数字混合的验证码](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.3.md)
 - [4、 目标检测：检测京东滑动框](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.4.md)
-- 5、 水果识别
+- 5、 垃圾分类
 - 6、 表格识别
 
 ##### NLP
