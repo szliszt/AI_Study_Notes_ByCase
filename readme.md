@@ -31,7 +31,6 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
  &nbsp; &nbsp; &nbsp;   [项目1： 手写网络模型](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.5.1.md)
  
  &nbsp; &nbsp; &nbsp;   [项目2： 用paddleclas](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.5.2.md)
-- 6、 表格识别
 
 ##### NLP
 - 1、 对评论进行情感分析 
