@@ -33,7 +33,7 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
  &nbsp; &nbsp; &nbsp;   [项目2： 用paddleclas](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.5.2.md)
 
 ##### NLP
-- 1、 对评论进行情感分析 
+- 1、 根据商品名称自动进行分类 
 - 2、 根据名称自动匹配sku 
 - 3、 从地址栏自动提取省市县 
 - 4、 产品属性自动分类 
