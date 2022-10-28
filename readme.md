@@ -34,7 +34,7 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 - [1、 根据商品名称自动进行分类]()
 - &nbsp; &nbsp; &nbsp; [项目1：用paddlehub](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.6.2.md)
 - &nbsp; &nbsp; &nbsp; [项目2：手写网络结构](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.6.1.md)
-- 2、 根据名称自动匹配sku 
+- [2、 根据名称自动匹配sku](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.7.md)
 - 3、 从地址栏自动提取省市县 
 - 4、 产品属性自动分类 
 
