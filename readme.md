@@ -36,7 +36,11 @@ https://aistudio.baidu.com/aistudio/projectdetail/4675459?contributionType=1
 - &nbsp; &nbsp; &nbsp; [项目2：手写网络结构](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.6.1.md)
 - [2、 根据名称自动匹配sku](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.7.md)
 - [3、 从快递地址自动提取省市县](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.8.md)
-- 4、 产品属性自动分类 
+
+#### 生成对抗网络
+- 1、人物头像卡通化
+- &nbsp; &nbsp; &nbsp; [项目1:Pixel2Pixel：使用对抗网络-人像卡通化（手写网络结构）](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.9.md)
+- &nbsp; &nbsp; &nbsp; [项目1:PaddleGAN 实现人像风格化 ](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/3.2.10.md)
 
 ### [四、 相关算法](https://github.com/szliszt/AI_Study_Notes_ByCase/blob/main/4.md)
 
